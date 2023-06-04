@@ -1,2 +1,4 @@
-# teahablemachinetest
-티쳐블 머신 테스트 레파지토
+# looklike
+티처블 머신을 이용한 닮은꼴 연예인 찾기 repo
+
+링크 : <https://weniv.github.io/looklike/>
